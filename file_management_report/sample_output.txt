@@ -1,0 +1,24 @@
+Project Structure
+
+HR/
+Employees/
+Policies/
+
+IT/
+Servers/
+Software/
+
+Finance/
+Budget/
+Invoices/
+
+Sales/
+Customers/
+Reports/
+
+Backup Created Successfully
+
+Disk Usage:
+24M
+
+Project Completed Successfully
